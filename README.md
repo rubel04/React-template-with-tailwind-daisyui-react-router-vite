@@ -11,8 +11,9 @@ It has:
 - daisyUi 5
 
 ## Create Your Own React 19 Project with Vite and TailwindCSS
+
 There are multiple ways you can utilize this repository to create your own project. The most straightforward way is by using the follwoing command from the command prompt/terminal:
 
 ```bash
-npx degit atapas/code-in-react-19#main <YOUR_PROJECT_NAME>
+npx degit rubel04/React-template-with-tailwind-daisyui-react-router-vite#main <YOUR_PROJECT_NAME>
 ```
