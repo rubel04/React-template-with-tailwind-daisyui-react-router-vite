@@ -1,11 +1,17 @@
 import { Outlet } from "react-router-dom";
-import Home from "../COMPONENTS/Home";
+import Navbar from "../components/shared/Navbar";
+import Footer from "../components/shared/Footer";
 
 const MainLayout = () => {
     return (
         <div>
-            <Home></Home>
+            <header>
+                <Navbar></Navbar>
+            </header>
             <Outlet></Outlet>
+            <footer>
+                <Footer></Footer>
+            </footer>
         </div>
     );
 };

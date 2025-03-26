@@ -7,6 +7,8 @@ It has:
 - Vite
 - React 19.0(Stable Version)
 - React Router
+- Firebase
+- Sweetalert2
 - TailwindCSS 4.x
 - daisyUi 5
 
